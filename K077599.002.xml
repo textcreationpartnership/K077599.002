@@ -1018,7 +1018,7 @@ as this gives myſelf very great pleaſure, I believe you will not be diſ<g ref
 to know it."</p>
                </div>
                <div type="account">
-                  <milestone type="tcpmilestone" unit="month" n="July."/>
+                  <milestone type="tcpmilestone" n="July." unit="month"/>
                   <head>
                      <note place="margin">Nairne's Pa<g ref="char:EOLhyphen"/>pers, D. N. vol. ii. fol. No. 21.</note>"An account of the preſent ſtate of Scotland, in July, 1706."—Indorſed,
 "Mr. Scot's relation."</head>
@@ -1769,7 +1769,7 @@ relation he has to your couſin Wiſeley [the King], upon which head I
 ſhould moſt delight in it.</p>
                </div>
                <div type="editors_note">
-                  <milestone type="tcpmilestone" unit="month" n="September."/>
+                  <milestone type="tcpmilestone" n="September." unit="month"/>
                   <p>The gentleman mentioned in the following letter, is probably captain
 Stratton, who was appointed by unanimous choice of the Jacobites in
 Scotland, and particularly by the duke of Hamilton, to go to France.</p>
@@ -1882,7 +1882,7 @@ when he will ſee that prudence, juſtice, and glory, concur in it.</p>
 explained, when the King of Sweden chooſes to enter into a treaty."</p>
                </div>
                <div type="letter_extracts">
-                  <milestone type="tcpmilestone" unit="month" n="November."/>
+                  <milestone type="tcpmilestone" n="November." unit="month"/>
                   <head>Extracts from Lord Caryll's letters, continued.</head>
                   <p>
                      <date>Nov. 21.</date> "I Shall be glad to hear what the reſult will be of your next
@@ -4901,7 +4901,7 @@ reſpect,</p>
                   <closer>May it pleaſe your Highneſs, &amp;c.</closer>
                </div>
                <div type="letter">
-                  <milestone type="tcpmilestone" unit="month" n="March."/>
+                  <milestone type="tcpmilestone" n="March." unit="month"/>
                   <head>
                      <note place="margin">Robethon's draught. Ibid. No. 214.</note>The Elector to the Duke of Marlborough.</head>
                   <argument>
@@ -4944,7 +4944,7 @@ undoubtedly, has very poſitive orders to make conſiderable offers to the
 two miniſters in queſtion. I am, my Lord, &amp;c.</p>
                </div>
                <div type="letter">
-                  <milestone type="tcpmilestone" unit="month" n="April."/>
+                  <milestone type="tcpmilestone" n="April." unit="month"/>
                   <head>
                      <note place="margin">Robethon's draught. Hannover Papers, vol. marked Princes. No. 64.</note>The Electoral Prince to Queen Anne.</head>
                   <argument>
